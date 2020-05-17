@@ -1,14 +1,8 @@
 
 /* Navigation */
 .container {
-    width: 70%;
     margin: auto;
 }
-ul {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 
 .navbar {
     padding: 0;
@@ -22,6 +16,7 @@ ul {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 28px;
+    margin-left: 20px;
 }
     
 .navbar-brand:hover {
@@ -58,9 +53,21 @@ ul {
     border-width: 0.5px;
 }
 
-
-      
-      
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+    .navbar-brand {
+        width: 100vw;
+        margin: 0;
+        text-align: center;
+    }
+    .nav {
+        margin: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
       
       
       
