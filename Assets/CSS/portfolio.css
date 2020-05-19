@@ -1,0 +1,53 @@
+
+.view-height {
+    background-color: white;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.portfolio h1 {
+    color: #4aaaa5;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.block {
+    margin-bottom: 20px;
+    border-radius: 0px;
+    padding-left: 20px;
+    padding-right: 0px;
+
+}
+.card {
+    border: white;
+    border-radius: 0px;
+    margin-right: 20px;
+    margin-top: 20px;
+    object-fit: scale-down;
+}
+
+.card a {
+    font-size: 22px;
+    color: white;
+}
+
+.card-title {
+    background-color: #4aaaa5;
+    padding: 1em;
+    text-align: center;
+}
+
+@media screen and (max-width: 850px) {
+    .view-height {
+        max-width: 580px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .view-height {
+        max-width: 500px;  
+    }
+}
+
