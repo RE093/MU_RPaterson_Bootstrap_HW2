@@ -5,6 +5,9 @@
     margin: 30px auto;
     padding: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-width: 0.05px;
+    border-color: lightgrey;
 }
 
 .portfolio h1 {
