@@ -75,6 +75,37 @@ body {
     }
 }
       
+/* Main Content */
+
+.content-div {
+    margin: 30px auto;
+    padding: 30px;
+    background-color: white !important;
+    max-width: 800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-width: 0.05px;
+    border-color: lightgrey;
+}
+
+.header h5 {
+    color: #4aaaa5;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 850px) {
+    .content-div {
+        max-width: 580px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .content-div {
+        max-width: 500px;  
+    }
+}
+
 /* Footer */
 .footer {
     position: fixed;
