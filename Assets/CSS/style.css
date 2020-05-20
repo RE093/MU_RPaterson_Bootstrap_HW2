@@ -1,6 +1,12 @@
-
+html {
+    height: 100vh;
+}
 body {
     background-image: url("../Images/ignasi_pattern_s.png");
+    position: relative;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
 }
 
 /* Navigation */
@@ -71,12 +77,14 @@ body {
       
 /* Footer */
 .footer {
-    background-color: grey !important;
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(165, 165, 165) !important;
     width: 100vw;
     border-width: 4px 0 0 0;
     border-style: solid;
     border-color: #4aaaa5;
-    color: grey;
+    color: rgb(165, 165, 165);
     padding: 10px;
 }
       
