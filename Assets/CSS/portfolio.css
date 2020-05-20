@@ -18,6 +18,16 @@
     color: white;
 }
 
+.card a:hover {
+    color: lightgrey;
+    text-decoration: none;
+}
+
+.card a:active {
+    color: grey;
+    text-decoration: none;
+}
+
 .card-title {
     background-color: #4aaaa5;
     padding: 1em;
