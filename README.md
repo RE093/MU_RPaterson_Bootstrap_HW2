@@ -32,7 +32,20 @@ https://re093.github.io/MU_RPaterson_Bootstrap_HW2/index.html
 
 ## Screenshots (XS)
 
-![About XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/About(XS).png)
-![About XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Portfolio(XS).png)
-![About XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Contact%20(XS).png)
+![About XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/About%20(XS).png)
+![Portfolio XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Portfolio%20(XS).png)
+![Contact XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Contact%20(XS).png)
+
+## Screenshots (MD)
+
+![About MD](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/About%20(MD).png)
+![Portfolio MD](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Portfolio%20(MD).png)
+![Contact MD](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Contact%20(MD).png)
+
+## Screenshots (LG)
+
+![About LG](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/About%20(LG).png)
+![Portfolio LG](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Portfolio%20(LG).png)
+![Contact LG](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Contact%20(LG).png)
+
 
