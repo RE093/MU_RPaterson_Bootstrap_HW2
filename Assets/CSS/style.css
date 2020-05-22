@@ -5,10 +5,6 @@
     margin: 0 20px 10px 0;
 }
 
-.about-me {
-    padding: 0 20px 10px 20px;
-}
-
 .about-text {
     font-size: 16px;
     color: #434242
@@ -30,6 +26,12 @@
     object-fit: scale-down;
 }
 
+.card-title {
+    background-color: #4aaaa5;
+    padding: 1em;
+    text-align: center;
+}
+
 .card a {
     font-size: 22px;
     color: white;
@@ -45,24 +47,17 @@
     text-decoration: none;
 }
 
-.card-title {
-    background-color: #4aaaa5;
-    padding: 1em;
-    text-align: center;
-}
-
 /* Contact Page */
+/* Input */
 .input-form {
     color: grey;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Form Input */
 .form-control {
     border-radius: 0;
 }
 
-/* Form Title */
 .form-title {
     color: #434242;
 }
@@ -85,6 +80,7 @@
     color: white;
 }
 
+/* Linked in & Github Links */
 #linkedin,
 #github {
     height: 2rem;
@@ -98,17 +94,12 @@
     border-radius: 5px;
 }
 
-#github:hover {
-    opacity: 0.9;
-}
+#github:hover,
 #linkedin:hover {
     opacity: 0.9;
 }
 
-#github:active {
-    opacity: 1;
-}
-
+#github:active,
 #github:active {
     opacity: 1;
 }
