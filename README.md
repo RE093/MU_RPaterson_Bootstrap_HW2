@@ -25,3 +25,12 @@ This is a portfolio created using a bootstrap framework.
 - Contains my personal information
 - Has utilised Bootstrap components and the grid system.
 - The footer is also fixed to the bottom of the screen
+
+## Link to Deployed Website
+
+https://re093.github.io/MU_RPaterson_Bootstrap_HW2/index.html
+
+## Screenshots (XS)
+
+![Image description](link-to-image)
+
