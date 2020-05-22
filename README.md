@@ -32,5 +32,7 @@ https://re093.github.io/MU_RPaterson_Bootstrap_HW2/index.html
 
 ## Screenshots (XS)
 
-![Image description](link-to-image)
+![About XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/About(XS).png)
+![About XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Portfolio(XS).png)
+![About XS](https://github.com/RE093/MU_RPaterson_Bootstrap_HW2/blob/master/Screenshots/Contact%20(XS).png)
 
